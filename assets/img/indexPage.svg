@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1920 1080" style="enable-background:new 0 0 1920 1080;" xml:space="preserve">
+	 
+	 
+<style type="text/css">
+	svg{
+		background:#CCCCCC
+	}
+	.st0{opacity:0.3;fill:none;stroke:#FFFFFF;stroke-width:8;stroke-dasharray:800;stroke-dashoffset:800;enable-background:new    ;}
+	.path1{
+			  stroke-dasharray: 300;
+			  stroke-dashoffset: 300;
+			  animation: dash1 6s linear alternate infinite;
+			  opacity: 0.3;
+			  animation-iteration-count:1;
+			}
+			
+			@keyframes dash1 {
+			  0%{
+			  	stroke-dashoffset: 300;
+			  }
+			  50%{
+			  	stroke-dashoffset: 0;
+			  }
+			  100%{
+			  	stroke-dashoffset: -300;
+			  }
+			}
+			.path2{
+				transform:translateY(0%);
+				animation: dash2 2s linear alternate infinite;
+			}
+			@keyframes dash2 {
+			  0% {
+			    transform:translateY(0%);
+			  }
+			  100% {
+			    transform:translateY(-10%);
+			  }
+			}
+			.path3{
+				transform:translateY(0%);
+				animation: dash3 2s linear alternate infinite;
+				animation-delay:1s;
+			}
+			@keyframes dash3 {
+			  0% {
+			    transform:translateY(0%);
+			  }
+			  100% {
+			    transform:translateY(-10%);
+			  }
+			}
+</style>
+
+
+<image style="overflow:visible;enable-background:new    ;" width="1920" height="1080"  xlink:href="./42998A17.png" >
+</image>
+<image style="overflow:visible;enable-background:new    ;" width="186" height="172"  xlink:href="./42998A15.png"  transform="matrix(1 0 0 1 882 324.92)">
+</image>
+<path class="st0 path1" d="M941.1,364.9c-19.8,2.7-34.1,10.4-34.1,19.5c0,11.3,22.4,20.5,50,20.5s50-9.2,50-20.5 c0-9-14.2-16.7-33.9-19.5"/>
+<image style="overflow:visible;enable-background:new;" width="63" height="44"    transform="matrix(1 0 0 1 923 348.92)">
+</image>
+<image style="overflow:visible;enable-background:new;" width="34" height="45"  xlink:href="./42998A1D.png"  transform="matrix(1 0 0 1 1000 338.92)">
+	<animateMotion path="M0 0 L0 -25 z" begin="1s;" dur="2s" repeatCount="indefinite"></animateMotion>
+</image>
+<image style="overflow:visible;enable-background:new;"  width="34" height="46"  xlink:href="./42998A1F.png"  transform="matrix(1 0 0 1 881 324.92)">
+	<animateMotion path="M0 0 L0 -20 z" begin="0s;" dur="2s" repeatCount="indefinite"></animateMotion>
+</image>
+</svg> 

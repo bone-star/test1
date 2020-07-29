@@ -1,0 +1,11 @@
+@font-face{
+     font-family: 'ledd'; 
+     src: url('ledd.ttf');
+     src: url('ledd.ttf'),
+          url('ledd.eot') format('eot');
+}
+@font-face{
+    font-family:'华康新综艺W7(P)'; 
+	src: url('华康新综艺W7(P).ttf');
+
+}
